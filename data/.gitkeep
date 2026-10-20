@@ -1,0 +1,2 @@
+This file intentionally keeps the data directory in Git.
+Never commit WhatsApp session data, credentials, QR codes, or private configuration.
