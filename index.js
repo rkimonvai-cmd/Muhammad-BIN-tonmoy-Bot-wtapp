@@ -3,7 +3,7 @@ const express = require('express');
 const { Client, LocalAuth } = require('whatsapp-web.js');
 
 // ================= শুধু এই লাইনটা বদলাও =================
-const MY_PHONE = '8801712345678'; // দেশের কোড + নম্বর, শুধু সংখ্যা
+const MY_PHONE = '8801333250762'; // দেশের কোড + নম্বর, শুধু সংখ্যা
 // =======================================================
 
 const VERSION = 'SIMPLE-v3';
